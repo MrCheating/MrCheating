@@ -6,7 +6,7 @@
 - 🤝 I am available to help with java projects  
 
 
-- 📫 Contacts: <br>
+- 📫 Contacts: 
   * **Discord**: [N]ull[P]ointer死#5555
 
 <p align="center">
