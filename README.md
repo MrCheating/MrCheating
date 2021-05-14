@@ -7,7 +7,7 @@
 
 
 - 📫 Contacts: <br>
-  * **Discord**: [N]ull[P]ointer 死#5555
+  * **Discord**: [N]ull[P]ointer死#5555
 
 <p align="center">
 	<br>
