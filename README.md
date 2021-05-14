@@ -4,7 +4,7 @@
 - 🔭 I'am currently working on [Atlantis](https://github.com/MrCheating/PAtlantis) .<br>
 - 🤔 I'am thinking of learning some other programming languages <br>
 - 📫 Contacts: <br>
-  * **Discord**: <br>
+  * **Discord**: 𐋃⁰ [N]ull[P]ointer 死#5555 <br>
 
 <p align="center">
 	<br>
