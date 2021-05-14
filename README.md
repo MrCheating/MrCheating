@@ -1,6 +1,5 @@
 
 ### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
 - 🔭 I am currently working on the atlantis server network .
 - 🌱 I am currently improving in the java and kotlin programming languages.
 - 🤝 I am available to help with java projects  
