@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋!</h1>
 <h3 align="center">I'm a Java and Kotlin Developer</h3>
 
-- 🔭 I'am currently working on [PlayMusic](https://github.com/Stanicc/PlayMusic) .<br>
+- 🔭 I'am currently working on [Atlantis](https://github.com/MrCheating/PAtlantis) .<br>
 - 🤔 I'am thinking of learning some other programming languages <br>
 - 📫 Contacts: <br>
   * **Discord**: <br>
